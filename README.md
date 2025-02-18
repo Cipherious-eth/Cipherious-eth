@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cipherious-eth
-- 👀 I’m interested in ... blockchain,Defi, and security researching 
-- 🌱 I’m currently learning ...defi development 
+- 👋 Hi, I’m @Cipherious.xyz
+- 👀 I’m interested in blockchain,Defi, and security researching 
+- 🌱 I’m currently learning ...Defi development 
 - 💞️ I’m looking to collaborate on defi projects
 - 📫 How to reach me ...on GitHub, cipherious.xyz@x
 - 😄 Pronouns: ...
