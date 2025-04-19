@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cipherious.xyz
 - 👀 I’m interested in blockchain,Defi, and security researching 
-- 🌱 I’m currently learning ...Defi development 
-- 💞️ I’m looking to collaborate on defi projects
-- 📫 How to reach me ...on GitHub, cipherious.xyz@x
+- 🌱 I’m currently learning ...smart contract security researching 
+- 💞️ I’m looking to collaborate on defi projects and next audit 
+- 📫 How to reach me ...on GitHub, cipheriousxyz@X
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I never half hash anything 😂 
 
